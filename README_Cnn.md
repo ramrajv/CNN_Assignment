@@ -34,4 +34,4 @@
 
 
 ## Contact
-Created by [@ramrajv] - feel free to contact me!
+Created by [https://github.com/ramrajv] - feel free to contact me!
